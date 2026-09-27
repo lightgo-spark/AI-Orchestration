@@ -1,6 +1,6 @@
 # AI-Orchestration
 
-AI-O is an AI orchestration engine engineered to transcend single-LLM limitations and reliably automate complex business pipelines. By combining agent execution flow control, context optimization, and rigorous output validation, it establishes a dependable foundation for AI systems.
+AI-O is an AI orchestration engine engineered to transcend single-LLM limitations and reliably automate complex pipelines. By combining agent execution flow control, context optimization, and rigorous output validation, it establishes a dependable foundation for AI systems.
 
     Intelligent Workflow Control (DAG-Based Orchestration)
 
